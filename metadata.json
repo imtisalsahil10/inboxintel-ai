@@ -1,0 +1,5 @@
+{
+  "name": "InboxIntel AI",
+  "description": "An intelligent email client that uses Gemini to summarize, prioritize, and classify your inbox, offering smart reply suggestions and action items.",
+  "requestFramePermissions": []
+}
